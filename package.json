@@ -1,0 +1,27 @@
+{
+  "name": "watchDog",
+  "version": "0.0.0",
+  "description": "watchDog",
+  "main": "lib/js/server.js",
+  "dependencies": {
+    "hapi": "~6.7.1",
+    "fluent-ffmpeg": "~2.0.0-rc2",
+    "express": "~4.9.6"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.8.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mzedayda/watchDog.git"
+  },
+  "author": "Mzedayda",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mzedayda/watchDog/issues"
+  },
+  "homepage": "https://github.com/mzedayda/watchDog"
+}
