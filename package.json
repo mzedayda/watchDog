@@ -6,7 +6,9 @@
   "dependencies": {
     "hapi": "~6.7.1",
     "fluent-ffmpeg": "~2.0.0-rc2",
-    "express": "~4.9.6"
+    "express": "~4.9.6",
+    "emailjs": "~0.3.12",
+    "ws": "~0.6.4"
   },
   "devDependencies": {
     "coffee-script": "~1.8.0"
